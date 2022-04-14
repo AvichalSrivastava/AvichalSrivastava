@@ -61,5 +61,6 @@ All my live projects are deployed on heroku. Bellow are some of the links
 - [Instagram clone server](https://instagramserv.herokuapp.com/) 
 - [Instagram clone client](https://instaguruudev.herokuapp.com/)
 - [Website with dynamic blogs controlled by admin panel](https://shayarkhana.herokuapp.com/)
+- [Website with dynamic blogging server](https://purva.herokuapp.com/)
 - [Website with dynamic blogging's admin panel](https://shayarkhana.herokuapp.com/admin)
 
