@@ -42,7 +42,6 @@ Installing my-projects with npm
 
 Node min version 10 is required.
 
-
 ```bash
   npm install i
 
