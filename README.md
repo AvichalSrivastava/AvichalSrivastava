@@ -53,7 +53,7 @@ Node min version 10 is required.
 
 ```
     
-## Appendix
+## Live Projects
 
 All my live projects are deployed on heroku. Bellow are some of the links
 - [Template emailing service on heroku server base url](https://mailboxserver.herokuapp.com/) 
